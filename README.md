@@ -15,7 +15,6 @@ The **Crime Data India Dashboard** is an interactive web application designed to
 
 - **Frontend**: HTML5, CSS3, JavaScript (D3.js)
 - **Visualization**: VizHub
-- 
 ## Data Sources
 National Crime Records Bureau (NCRB): https://ncrb.gov.in
 Open Government Data (OGD) Platform India: https://data.gov.in
