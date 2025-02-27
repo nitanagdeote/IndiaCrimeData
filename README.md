@@ -19,17 +19,6 @@ The **Crime Data India Dashboard** is an interactive web application designed to
 ## Data Sources
 National Crime Records Bureau (NCRB): https://ncrb.gov.in
 Open Government Data (OGD) Platform India: https://data.gov.in
-## Contributing
-We welcome contributions from the community. To contribute:
-
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a Pull Request.
-Please ensure all new features are covered by tests and adhere to the project's coding standards.
-
-## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
