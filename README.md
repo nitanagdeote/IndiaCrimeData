@@ -14,22 +14,9 @@ The **Crime Data India Dashboard** is an interactive web application designed to
 
 ## Technologies Used
 
-- **Frontend**: HTML5, CSS3, JavaScript (D3.js, Leaflet.js)
-- **Backend**: Python (Flask)
-- **Data Processing**: Pandas, NumPy
-- **Visualization**: Plotly, Matplotlib
-- **Database**: SQLite
-- **APIs**: RESTful services for data retrieval and updates
-
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/crime-data-india-dashboard.git
-   cd crime-data-india-dashboard
-2. **      **:
-
-3. 
+- **Frontend**: HTML5, CSS3, JavaScript (D3.js)
+- **Visualization**: VizHub
+-  
 ## Data Sources
 National Crime Records Bureau (NCRB): https://ncrb.gov.in
 Open Government Data (OGD) Platform India: https://data.gov.in
